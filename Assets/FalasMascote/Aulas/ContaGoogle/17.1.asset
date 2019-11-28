@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff94f93d5bf237243a6592d456ca85bd, type: 3}
+  m_Name: 17.1
+  m_EditorClassIdentifier: 
+  Falas:
+  - Text: Bem vindo a mais uma aula!
+    Pose: {fileID: -1838760920508527145, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Face: {fileID: 3808000560791464224, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Prefab: {fileID: 0}
+  - Text: "Vamos introduz\xED-lo aos servi\xE7os da Google."
+    Pose: {fileID: -7112623826987071965, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Face: {fileID: 114378874218036506, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Prefab: {fileID: 0}
+  - Text: "Atrav\xE9s deles, podemos baixar aplicativos novos para o celular"
+    Pose: {fileID: -8021783482508467223, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Face: {fileID: -7473241667589436805, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Prefab: {fileID: 0}
+  - Text: "Assim como desfrutar de uma su\xEDte de servi\xE7os providos pela conta."
+    Pose: {fileID: -7112623826987071965, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Face: {fileID: 114378874218036506, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Prefab: {fileID: 0}
+  - Text: Vamos entrar na <b><size=80>Google Play</size></b> para ver mais!
+    Pose: {fileID: -1838760920508527145, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Face: {fileID: -7473241667589436805, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Prefab: {fileID: 2976477314895482664, guid: 297486ec9a28eaf47ac6d3e5ae458342,
+      type: 3}

@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff94f93d5bf237243a6592d456ca85bd, type: 3}
+  m_Name: Introducao
+  m_EditorClassIdentifier: 
+  Falas:
+  - Text: Bom dia!
+    Pose: {fileID: -8021783482508467223, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Face: {fileID: 114378874218036506, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Prefab: {fileID: 0}
+  - Text: Eu sou Mobino.
+    Pose: {fileID: -1838760920508527145, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Face: {fileID: 3808000560791464224, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Prefab: {fileID: 0}
+  - Text: Seja bem-vindo ao Manual do Idoso Moderno!
+    Pose: {fileID: -8021783482508467223, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Face: {fileID: 114378874218036506, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Prefab: {fileID: 0}
+  - Text: "Aqui voc\xEA vai aprender a mecher no celular. "
+    Pose: {fileID: -7112623826987071965, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Face: {fileID: -7473241667589436805, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Prefab: {fileID: 0}
+  - Text: "Vamos aprender juntos como usar muitas das fun\xE7\xF5es do seu celular."
+    Pose: {fileID: -8021783482508467223, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Face: {fileID: 114378874218036506, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Prefab: {fileID: 0}
+  - Text: "Para iniciar a primeira aula, clique no bot\xE3o <b><size=100>azul de n\xFAmero
+      1.</size></b>"
+    Pose: {fileID: -1838760920508527145, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Face: {fileID: -7473241667589436805, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Prefab: {fileID: 2976477314895482664, guid: 9e1884d8c6fa481468aadfe8905a0687,
+      type: 3}
+  - Text: "Em seguinda clique no bot\xE3o <b><size=80>\"come\xE7ar\".</size></b>"
+    Pose: {fileID: -8021783482508467223, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Face: {fileID: 114378874218036506, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Prefab: {fileID: 2976477314895482664, guid: 091d3555f481ef84ba3e9d12232be4bb,
+      type: 3}

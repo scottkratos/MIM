@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff94f93d5bf237243a6592d456ca85bd, type: 3}
+  m_Name: 13.1
+  m_EditorClassIdentifier: 
+  Falas:
+  - Text: Bem vindo de volta!
+    Pose: {fileID: -1838760920508527145, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Face: {fileID: 3808000560791464224, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Prefab: {fileID: 0}
+  - Text: "Essa \xE9 a nossa \xFAltima li\xE7\xE3o sobre conectividade."
+    Pose: {fileID: -8021783482508467223, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Face: {fileID: -7473241667589436805, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Prefab: {fileID: 0}
+  - Text: "Vamos falar sobre \u201CBluetooth\u201D."
+    Pose: {fileID: -7112623826987071965, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Face: {fileID: 114378874218036506, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Prefab: {fileID: 0}
+  - Text: "O \u201CBluetooth\u201D \xE9 o nome dado \xE0 uma tecnologia de compatilhamento
+      de arquivos."
+    Pose: {fileID: -1838760920508527145, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Face: {fileID: -7473241667589436805, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Prefab: {fileID: 0}
+  - Text: "Com ele voc\xEA pode conectar aparelhos que utilizem a tecnologia de \u201CBluetooth\u201D
+      ou at\xE9 compartilhar arquivos como:"
+    Pose: {fileID: -8021783482508467223, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Face: {fileID: 114378874218036506, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Prefab: {fileID: 0}
+  - Text: "Musicas, fotos, links da Intenet, fones de ouvindo e at\xE9 televisores"
+    Pose: {fileID: -7112623826987071965, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Face: {fileID: -7473241667589436805, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Prefab: {fileID: 0}
+  - Text: "Digamos que voc\xEA quer escutar uma m\xFAsica, mas quer se conectar \xE0
+      uma caixa de som pra ter um som mais alto."
+    Pose: {fileID: -1838760920508527145, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Face: {fileID: 114378874218036506, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Prefab: {fileID: 0}
+  - Text: "V\xE1 ate <b><size=80>\u201CConfigura\xE7\xF5es\u201D.</size></b>"
+    Pose: {fileID: -7112623826987071965, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Face: {fileID: -7473241667589436805, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Prefab: {fileID: 2976477314895482664, guid: f1f0828deeca2d546884e1c48af70f2b,
+      type: 3}

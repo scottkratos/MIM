@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff94f93d5bf237243a6592d456ca85bd, type: 3}
+  m_Name: 9.1
+  m_EditorClassIdentifier: 
+  Falas:
+  - Text: "AH, N\xC3O!"
+    Pose: {fileID: -8021783482508467223, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Face: {fileID: -2197252156688473585, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Prefab: {fileID: 0}
+  - Text: "Deixei os <b><size=80>dados m\xF3veis</size></b> ligados!!!!"
+    Pose: {fileID: -7112623826987071965, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Face: {fileID: -2197252156688473585, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Prefab: {fileID: 0}
+  - Text: Precisamos <b><size=80>desliga-los AGORA!!!</size></b>
+    Pose: {fileID: -1838760920508527145, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Face: {fileID: -2197252156688473585, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Prefab: {fileID: 0}

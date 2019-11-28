@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff94f93d5bf237243a6592d456ca85bd, type: 3}
+  m_Name: 2.1
+  m_EditorClassIdentifier: 
+  Falas:
+  - Text: "Que bom ver voc\xEA de novo!"
+    Pose: {fileID: -8021783482508467223, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Face: {fileID: 3808000560791464224, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Prefab: {fileID: 0}
+  - Text: Agora vamos lembrar de um tempo distante.
+    Pose: {fileID: -7112623826987071965, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Face: {fileID: -7473241667589436805, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Prefab: {fileID: 0}
+  - Text: Um tempo em que as pessoas se comunicavam por cartas, que viam pelos correios.
+    Pose: {fileID: -8021783482508467223, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Face: {fileID: 114378874218036506, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Prefab: {fileID: 0}
+  - Text: As pessoas demoravam meses pra finalizar uma conversa.
+    Pose: {fileID: -1838760920508527145, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Face: {fileID: -7473241667589436805, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Prefab: {fileID: 0}
+  - Text: "Atualmente, as conversas s\xE3o mais f\xE1ceis..."
+    Pose: {fileID: -7112623826987071965, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Face: {fileID: 114378874218036506, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Prefab: {fileID: 0}
+  - Text: "Pera, que horas s\xE3o?"
+    Pose: {fileID: -1838760920508527145, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Face: {fileID: -7473241667589436805, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Prefab: {fileID: 0}
+  - Text: "Oh n\xE3o! Esqueci de mandar uma mensagem pra Mobinete "
+    Pose: {fileID: -8021783482508467223, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Face: {fileID: -2197252156688473585, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Prefab: {fileID: 0}
+  - Text: "J\xE1 sei!"
+    Pose: {fileID: -1838760920508527145, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Face: {fileID: -7473241667589436805, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Prefab: {fileID: 0}
+  - Text: Mande uma mensagem por mim!
+    Pose: {fileID: -8021783482508467223, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Face: {fileID: 114378874218036506, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Prefab: {fileID: 0}
+  - Text: Primeiro, <b><size=80>abra o Whatsapp.</size></b>
+    Pose: {fileID: -7112623826987071965, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Face: {fileID: 114378874218036506, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Prefab: {fileID: 2976477314895482664, guid: 6823ba48475a7ac4da8fc19b0c1c8db0,
+      type: 3}

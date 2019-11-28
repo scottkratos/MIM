@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b0fe492132c5024d8c3a6744c2314db, type: 3}
+  m_Name: Configuration
+  m_EditorClassIdentifier: 
+  app:
+    Nome: "Configura\xE7\xF5es"
+    sprites:
+    - {fileID: -8547899375404037320, guid: f7902ccac4691864ab8f187273360684, type: 3}
+    - {fileID: -8547899375404037320, guid: f7902ccac4691864ab8f187273360684, type: 3}
+    - {fileID: -8547899375404037320, guid: f7902ccac4691864ab8f187273360684, type: 3}
+    Type: 1
+    Size: 80000
+    DataType: 4
+    DadosMoveisUsados: 0
+    RedeUsada: 0
+    DadosPerSec: 0

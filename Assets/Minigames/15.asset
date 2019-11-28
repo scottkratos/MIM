@@ -1,0 +1,377 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4cc7b6898999e1642b63c0239bb7f655, type: 3}
+  m_Name: 15
+  m_EditorClassIdentifier: 
+  minigame:
+    Time: 45
+    Falas:
+    - {fileID: 11400000, guid: 068990703a53ed14fb987623c41dc903, type: 2}
+    - {fileID: 11400000, guid: 93351be2815513c4a84773ecb13caa9e, type: 2}
+    FailFalas:
+    - {fileID: 11400000, guid: 8edd64364c848e2458c15d61b923b608, type: 2}
+    minigame: 14
+    IsBlocked: 1
+    MacroIndex: 0
+    MicroIndex: 0
+    Pages: 1
+    CurrentPage: 1
+    apps:
+    - Pelicula: 0
+      Line: 0
+      Slot: 0
+      CApp: {fileID: 11400000, guid: cf4d727d0ef6b824d8f5131038834c50, type: 2}
+      App: {fileID: 0}
+    - Pelicula: 0
+      Line: 0
+      Slot: 1
+      CApp: {fileID: 11400000, guid: da9e919aeeb89cf48bd024f39e40d485, type: 2}
+      App: {fileID: 0}
+    - Pelicula: 0
+      Line: 0
+      Slot: 2
+      CApp: {fileID: 11400000, guid: ff1f24128b58e52459dd4cbbf38304fd, type: 2}
+      App: {fileID: 0}
+    - Pelicula: 0
+      Line: 0
+      Slot: 3
+      CApp: {fileID: 11400000, guid: 88721675d5246234586c962e7b5aa536, type: 2}
+      App: {fileID: 0}
+    - Pelicula: 0
+      Line: 0
+      Slot: 4
+      CApp: {fileID: 11400000, guid: 6b9dd7a14ca088b4a9e066f36e2e2e2b, type: 2}
+      App: {fileID: 0}
+    - Pelicula: 0
+      Line: 1
+      Slot: 0
+      CApp: {fileID: 11400000, guid: 02cc06f9731c5d04a909d6c6ec7b4ae6, type: 2}
+      App: {fileID: 0}
+    - Pelicula: 0
+      Line: 1
+      Slot: 1
+      CApp: {fileID: 11400000, guid: e912deeb835bca1489b304008a0df4e4, type: 2}
+      App: {fileID: 0}
+    - Pelicula: 0
+      Line: 1
+      Slot: 2
+      CApp: {fileID: 11400000, guid: 78b1c7101ce1fa34badfd9b3c4b06d46, type: 2}
+      App: {fileID: 0}
+    - Pelicula: 0
+      Line: 1
+      Slot: 3
+      CApp: {fileID: 11400000, guid: f1adb0ead49d865489627f01cac67980, type: 2}
+      App: {fileID: 0}
+    - Pelicula: 0
+      Line: 1
+      Slot: 4
+      CApp: {fileID: 11400000, guid: 10b7f5e61b0a52f4cbfcaf21337e4cdc, type: 2}
+      App: {fileID: 0}
+    - Pelicula: 0
+      Line: 2
+      Slot: 0
+      CApp: {fileID: 11400000, guid: 9da379d0eef04ee45bab2445f4e1f181, type: 2}
+      App: {fileID: 0}
+    homeapps:
+    - Pelicula: 0
+      Line: 0
+      Slot: 0
+      CApp: {fileID: 11400000, guid: b95baae6820b6db429db68ae8b01ec21, type: 2}
+      App: {fileID: 0}
+    - Pelicula: 0
+      Line: 0
+      Slot: 1
+      CApp: {fileID: 11400000, guid: 13a98d2057b47b5469936283943c964f, type: 2}
+      App: {fileID: 0}
+    - Pelicula: 0
+      Line: 0
+      Slot: 2
+      CApp: {fileID: 11400000, guid: 23f7949424778114c953e1d380f89076, type: 2}
+      App: {fileID: 0}
+    - Pelicula: 0
+      Line: 0
+      Slot: 3
+      CApp: {fileID: 11400000, guid: 7367332fdaf5f974287c16576a97f494, type: 2}
+      App: {fileID: 0}
+    - Pelicula: 0
+      Line: 0
+      Slot: 4
+      CApp: {fileID: 11400000, guid: 35ad8c9bfb248a345b401f583b0af1da, type: 2}
+      App: {fileID: 0}
+    IsGaveta: 1
+    IsOpcoesRapidas: 1
+    BackgroundIndex: 3
+    IsWifiEnabled: 1
+    IsGPSEnabled: 0
+    IsBluetoothEnabled: 0
+    IsDadosEnabled: 1
+    IsEnergyEnabled: 0
+    IsPlaneModeEnabled: 0
+    IsLightEnabled: 0
+    lightLevel: 0
+    RedesDisponiveis:
+    - Nome: Terry
+      Senha: BusterWolf
+    - Nome: TP=Link_9578
+      Senha: TPLINKDEVICE9578
+    - Nome: Rede Livre
+      Senha: panelavelha
+    - Nome: Theodore
+      Senha: Sorriso503
+    - Nome: GangsterCat
+      Senha: MeowMeowNigga
+    - Nome: NET-CLARO-WIFI
+      Senha: netclient255
+    - Nome: GrooveStreet
+      Senha: AwShitHereWeGoAgain
+    - Nome: Squinca2014
+      Senha: EugostodoBatatas1337
+    - Nome: WAAAAAAAAA
+      Senha: admin
+    RedeConectada: -1
+    ArmazenamentoMaximo: 200000
+    DadosMaximos: 200000
+    USBTheth: 0
+    BluetoothTeth: 0
+    AllowVPN: 0
+    PontoDeAcesso:
+      IsActivated: 0
+      Nome: Ponto de acesso local
+      Seg: 0
+      Senha: 12345
+    BluetoothName: Meu Aparelho Bluetooth
+    DisBluetooth:
+    - Name: XB550
+      Pin: 
+      Status: 0
+    - Name: Iphone de Gabriel
+      Pin: 
+      Status: 0
+    - Name: Galaxy-S10
+      Pin: 
+      Status: 0
+    - Name: NovaSuperMaquina2019
+      Pin: 
+      Status: 0
+    Arquivos:
+    - {fileID: 11400000, guid: 19f2745a3cdb7324c97be554de4dcd91, type: 2}
+    - {fileID: 11400000, guid: 9bff67bb661042344a62a5a8ec328028, type: 2}
+    - {fileID: 11400000, guid: c7785b7be642ebf4293d2262c9dc9ae4, type: 2}
+    - {fileID: 11400000, guid: 485facf7f0fe4654da1db4d4573ea43c, type: 2}
+    - {fileID: 11400000, guid: bebdb7064e24a0b478467a4f95d25cb9, type: 2}
+    - {fileID: 11400000, guid: 47fbea8ed5f940c48852c7ad7ae7eec2, type: 2}
+    - {fileID: 11400000, guid: 8d0844455f973834e853598be037080e, type: 2}
+    - {fileID: 11400000, guid: 1a8b80a1d3dadfc409549b4b685f881c, type: 2}
+    - {fileID: 11400000, guid: 57819a2fc602ae4418689d7478515c0d, type: 2}
+    - {fileID: 11400000, guid: 2ed6f3c4472c0fb48bfe51d3df0c45a0, type: 2}
+    - {fileID: 11400000, guid: 6060eb03ee2b80c4eb0a67fce6e2311e, type: 2}
+    - {fileID: 11400000, guid: 03b2ca9a27ca1f446aee3385d6c62b07, type: 2}
+    - {fileID: 11400000, guid: 3d548a8ba3c611143afbe368de8ad2f2, type: 2}
+    - {fileID: 11400000, guid: cbbbb86c056a380438173fbb32c0a339, type: 2}
+    - {fileID: 11400000, guid: 28d04a2c71def8f4dba937d12a018c31, type: 2}
+    - {fileID: 11400000, guid: 521a7718807bf564c872534900cdeb02, type: 2}
+    - {fileID: 11400000, guid: b6d5b0c3d34dc28408a5b5031d3c90eb, type: 2}
+    - {fileID: 11400000, guid: fdd66fb486ff6484ab6b15f058047a23, type: 2}
+    - {fileID: 11400000, guid: 4d647f5406fd81b4b91b516688934ca2, type: 2}
+    - {fileID: 11400000, guid: 40f556306d9ab1444bb78b7407f43c03, type: 2}
+    - {fileID: 11400000, guid: af35d8fcefba07a4c9c7c1e866060f84, type: 2}
+    - {fileID: 11400000, guid: b7d7106c1d25ab3438adf5c7a85e3697, type: 2}
+    - {fileID: 11400000, guid: 02f44eb59f3617c4f8431674d39df12c, type: 2}
+    ArquivosTransmitidos:
+    - {fileID: 11400000, guid: 903273bc965b0c34f8bf642a0fa386a7, type: 2}
+    - {fileID: 11400000, guid: 763537d29ff7b124f9e873a5a51c1106, type: 2}
+    - {fileID: 11400000, guid: 848da06e412a68d44b2220f8bd3ed651, type: 2}
+    - {fileID: 11400000, guid: 0ba9db67532dea143a90578b7d3f3b91, type: 2}
+    IsNotifyEnabled: 0
+    Contatos:
+    - Name: Mobinete
+      Desc: Que dia lindo!
+      Thumbnail: {fileID: -1968498220131024403, guid: 5189456de920dc242a0c6019bcf6036a,
+        type: 3}
+      RecivedMessages:
+      - Sender: 1
+        Message: "Mobi, t\xF4 planejando uma viagem."
+      - Sender: 1
+        Message: Pra descontrair
+      - Sender: 1
+        Message: "Que tal os servidores da Amazon? O lugar \xE9 gigante e tem tanta
+          coisa que vamos nos perder!"
+      - Sender: 1
+        Message: Vai querer ir?
+    - Name: ICara
+      Desc: WEEEEEEEEEEEEEE
+      Thumbnail: {fileID: 1987286762860780582, guid: 3478cae5a6063a247b130751e8d312b3,
+        type: 3}
+      RecivedMessages:
+      - Sender: 1
+        Message: WEEEEEEEEEEEEEE
+      - Sender: 0
+        Message: "vc n\xE3o pode ver uma arvore"
+      - Sender: 1
+        Message: WEEEEEEEEEEE
+    - Name: Galaxiano
+      Desc: "A melhor arma \xE9 a toalha"
+      Thumbnail: {fileID: 1409540346925615101, guid: 3478cae5a6063a247b130751e8d312b3,
+        type: 3}
+      RecivedMessages:
+      - Sender: 1
+        Message: 42
+      - Sender: 0
+        Message: quantos caminhos sao possiveis na vida?
+      - Sender: 1
+        Message: A resposta de Deus para o universo
+      - Sender: 0
+        Message: Desculpa pelo inconveniente
+    - Name: Mr.Mime
+      Desc: "Adoro a m\xE3e dos meus filhos"
+      Thumbnail: {fileID: -5629189451118790429, guid: 3478cae5a6063a247b130751e8d312b3,
+        type: 3}
+      RecivedMessages:
+      - Sender: 1
+        Message: ow
+      - Sender: 1
+        Message: "passa o numero da sua m\xE3e?"
+      - Sender: 0
+        Message: qq ta rolando?
+      - Sender: 1
+        Message: "me disseram que voc\xEA n\xE2o tem pai"
+      - Sender: 1
+        Message: "ou n\xE3o tinha"
+      - Sender: 0
+        Message: .
+    - Name: Pai do Ness
+      Desc: Sempre atendo suas chamadas
+      Thumbnail: {fileID: -3052438838943963040, guid: 3478cae5a6063a247b130751e8d312b3,
+        type: 3}
+      RecivedMessages:
+      - Sender: 1
+        Message: "Cara, tou com uma urg\xEAncia"
+      - Sender: 1
+        Message: "Tem como voc\xEA me emprestar uma grana?"
+      - Sender: 0
+        Message: "Claro, quando voc\xEA consegue me devolver?"
+      - Sender: 1
+        Message: "Consigo daqui um m\xEAs."
+      - Sender: 0
+        Message: "\xD3timo, ent\xE2o te empresto a grana e voc\xEA me devolve daqui
+          a um m\xEAs."
+      - Sender: 1
+        Message: Ok, obrigado mesmo!
+      - Sender: 0
+        Message: Ja ta com meu dinheiro?
+      - Sender: 1
+        Message: Ja sim
+      - Sender: 1
+        Message: Vem aqui em casa q eu te entrego tudo
+    - Name: Rockmano
+      Desc: Um olho no gato e outro no peixe
+      Thumbnail: {fileID: 1477176240528542919, guid: 3478cae5a6063a247b130751e8d312b3,
+        type: 3}
+      RecivedMessages:
+      - Sender: 1
+        Message: O bilbo sabe
+      - Sender: 0
+        Message: alguem mais sabe?
+      - Sender: 1
+        Message: acho que o bilbo vai contar pro Mr.Mime
+    - Name: Bilbo
+      Desc: "Nunca vi tamanha nega\xE7\xE3o"
+      Thumbnail: {fileID: 1279580571335443021, guid: 3478cae5a6063a247b130751e8d312b3,
+        type: 3}
+      RecivedMessages:
+      - Sender: 1
+        Message: Eu sei das coisas cromadas
+      - Sender: 0
+        Message: "s\xE9loko"
+      - Sender: 0
+        Message: top memo
+      - Sender: 1
+        Message: "Vou come\xE7ar a divulgar"
+    - Name: Ness
+      Desc: PK FIRE
+      Thumbnail: {fileID: -3649120535872600806, guid: 3478cae5a6063a247b130751e8d312b3,
+        type: 3}
+      RecivedMessages:
+      - Sender: 1
+        Message: PK FIRE
+      - Sender: 1
+        Message: PK FIRE
+      - Sender: 1
+        Message: PK FIRE
+      - Sender: 1
+        Message: PK FIRE
+      - Sender: 0
+        Message: vc tem um PK problem
+    - Name: Krux
+      Desc: "N\xE3o dou SD de terry Ainainsainain"
+      Thumbnail: {fileID: -3604065599062913181, guid: 3478cae5a6063a247b130751e8d312b3,
+        type: 3}
+      RecivedMessages:
+      - Sender: 1
+        Message: AINAInAInAidaskjdksa
+      - Sender: 0
+        Message: Deu sd de terry dnv?
+      - Sender: 1
+        Message: Naaaaaao
+      - Sender: 0
+        Message: "vc \xE9 uma nega\xE7\xE3o"
+    - Name: Noku
+      Desc: 100% Prazer
+      Thumbnail: {fileID: -3068679246917968643, guid: 3478cae5a6063a247b130751e8d312b3,
+        type: 3}
+      RecivedMessages:
+      - Sender: 1
+        Message: 100% prazer
+      - Sender: 0
+        Message: circo do bolinha
+      - Sender: 1
+        Message: vc sabe das coisas
+    - Name: Sorriso
+      Desc: MAMAAAAAA!!!
+      Thumbnail: {fileID: -5126940618838356774, guid: 3478cae5a6063a247b130751e8d312b3,
+        type: 3}
+      RecivedMessages:
+      - Sender: 1
+        Message: MAMA
+      - Sender: 0
+        Message: UUUUUUUUUUUU
+      - Sender: 1
+        Message: I DONT WANNA DIE
+      - Sender: 0
+        Message: SOME TIMES I WISH IVE NEVER BEEN BORN
+      - Sender: 0
+        Message: AT ALL
+    - Name: Velho
+      Desc: "Esse cara aqui faz voc\xEAs at\xE9 se sentirem jovens"
+      Thumbnail: {fileID: 897461751472300902, guid: 3478cae5a6063a247b130751e8d312b3,
+        type: 3}
+      RecivedMessages:
+      - Sender: 1
+        Message: use a varinha harry
+      - Sender: 0
+        Message: lumus
+      - Sender: 0
+        Message: fruti loops
+      - Sender: 1
+        Message: leiosaaaaa
+    - Name: Vinicius
+      Desc: "N\xF3s somos o protagonista de nossas pr\xF3prias hist\xF3rias"
+      Thumbnail: {fileID: -4299436734167162614, guid: 3478cae5a6063a247b130751e8d312b3,
+        type: 3}
+      RecivedMessages:
+      - Sender: 1
+        Message: "15 a\xE7\xF5es por minuto"
+      - Sender: 0
+        Message: "N\xE3o pode animal"
+    IsLogin: 1
+    User: mobino.nokio@gmail.com
+    Pass: binario

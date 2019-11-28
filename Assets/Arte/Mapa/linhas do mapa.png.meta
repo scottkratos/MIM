@@ -1,0 +1,706 @@
+fileFormatVersion: 2
+guid: 605dc3e341f162b4bad016f85d37d817
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -228044400963354337
+    second: LinhaAcesa18
+  - first:
+      213: 1480207294745602771
+    second: LinhaAcesa19
+  - first:
+      213: 7996089973815142960
+    second: linhas do mapa_2
+  - first:
+      213: 1446498028750514102
+    second: LinhaAcesa20
+  - first:
+      213: 2576582204789497173
+    second: LinhaAcesa20
+  - first:
+      213: 8748707170848784956
+    second: LinhaAcesa21
+  - first:
+      213: 7574489626023206715
+    second: LinhaAcesa15
+  - first:
+      213: 3317990273844710422
+    second: LinhaAcesa16
+  - first:
+      213: -4052387698144639954
+    second: LinhaAcesa17
+  - first:
+      213: 4375493200201453727
+    second: linhas do mapa_9
+  - first:
+      213: 2329331598400090844
+    second: linhas do mapa_10
+  - first:
+      213: 5594857580853010609
+    second: linhas do mapa_11
+  - first:
+      213: -862342912214599679
+    second: linhas do mapa_12
+  - first:
+      213: -7036683425950982880
+    second: linhas do mapa_13
+  - first:
+      213: -81169239469531712
+    second: LinhaAcesa12
+  - first:
+      213: -1792454756553966147
+    second: linhas do mapa_15
+  - first:
+      213: 2151566548768789217
+    second: LinhaAcesa9
+  - first:
+      213: 2606933573403588844
+    second: LinhaAcesa10
+  - first:
+      213: -6826898593976084042
+    second: LinhaAcesa11
+  - first:
+      213: -1294952716437570875
+    second: LinhaAcesa13
+  - first:
+      213: 1504072146500736885
+    second: linhas do mapa_20
+  - first:
+      213: 2359815452142714282
+    second: linhas do mapa_21
+  - first:
+      213: -6516713090034155573
+    second: LinhaAcesa14
+  - first:
+      213: -2011042345159412764
+    second: LinhaAcesa6
+  - first:
+      213: -7660201021009385078
+    second: linhas do mapa_24
+  - first:
+      213: -4567765633465320448
+    second: linhas do mapa_25
+  - first:
+      213: -5642243672841136144
+    second: LinhaAcesa8
+  - first:
+      213: 747383934794797443
+    second: linhas do mapa_27
+  - first:
+      213: 4170389841977019934
+    second: LinhaAcesa7
+  - first:
+      213: 8927463331583469970
+    second: linhas do mapa_29
+  - first:
+      213: -3105023107837185531
+    second: linhas do mapa_30
+  - first:
+      213: 6384917070156471971
+    second: linhas do mapa_31
+  - first:
+      213: -6633239671629598083
+    second: linhas do mapa_32
+  - first:
+      213: 1127370961474021187
+    second: linhas do mapa_33
+  - first:
+      213: -8494383619750421788
+    second: LinhaAcesa0
+  - first:
+      213: 8286597623649567354
+    second: LinhaAcesa1
+  - first:
+      213: 6740782373247851756
+    second: LinhaAcesa2
+  - first:
+      213: 3475562662810446395
+    second: LinhaAcesa3
+  - first:
+      213: -720843295824367317
+    second: linhas do mapa_38
+  - first:
+      213: -6788954420139208824
+    second: LinhaAcesa4
+  - first:
+      213: 7526432703572368279
+    second: LinhaAcesa5
+  - first:
+      213: -2004980435503478365
+    second: linhas do mapa_41
+  - first:
+      213: -6516947908745108151
+    second: linhas do mapa_42
+  - first:
+      213: -348719300117368897
+    second: linhas do mapa_43
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LinhaAcesa18
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2382
+        width: 332
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c5d1e5ec9d170429fc0b8ac4e58cc5
+      internalID: -228044400963354337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinhaAcesa19
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 2322
+        width: 506
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77bd3815ab4953a4bb7e1f120a853ce9
+      internalID: 1480207294745602771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinhaAcesa20
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 2278
+        width: 195
+        height: 522
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd226f6a8f89764f998be34c5ca5622
+      internalID: 1446498028750514102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinhaAcesa21
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 2343
+        width: 231
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d780b66c177bfac4ea0e78e08a60cc71
+      internalID: 8748707170848784956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinhaAcesa15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1945
+        width: 324
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca58904d177b894b83533f53a66ee39
+      internalID: 7574489626023206715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinhaAcesa16
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1866
+        width: 508
+        height: 311
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021cfdf7285c2394bae07e20e1b09f9d
+      internalID: 3317990273844710422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinhaAcesa17
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 1886
+        width: 422
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e27c040505fbc4eb043b314b85e8f3
+      internalID: -4052387698144639954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinhaAcesa12
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 1364
+        width: 289
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd544a4f354ed5141b50214972a5d5a6
+      internalID: -81169239469531712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinhaAcesa9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1295
+        width: 48
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e3ef8ed3097364081b3a31cd321849
+      internalID: 2151566548768789217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinhaAcesa10
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1263
+        width: 103
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9951acd535ace284985e3ebb8fea4c36
+      internalID: 2606933573403588844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinhaAcesa11
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1274
+        width: 268
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29fd1fd10e48df48a81f96475bdb37d
+      internalID: -6826898593976084042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinhaAcesa13
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 1360
+        width: 210
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f0fb437544ffe4397a5778f2dc220a
+      internalID: -1294952716437570875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinhaAcesa14
+      rect:
+        serializedVersion: 2
+        x: 1914
+        y: 1321
+        width: 144
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0030565e2d9847498c7d7a104a34995
+      internalID: -6516713090034155573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinhaAcesa6
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 467
+        width: 672
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14fad52e7b96574f9c295df030480e7
+      internalID: -2011042345159412764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinhaAcesa8
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 494
+        width: 490
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2344e2953eb0c6d4fa68cbe67c11ec5b
+      internalID: -5642243672841136144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinhaAcesa7
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 492
+        width: 410
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fae69c155a1aa64da61c27e3818afcf
+      internalID: 4170389841977019934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinhaAcesa0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 72
+        width: 221
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1c673fbc993f324291025d1b4fb951b
+      internalID: -8494383619750421788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinhaAcesa1
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 63
+        width: 221
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20e3cbebd892b8e498859caa079809d6
+      internalID: 8286597623649567354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinhaAcesa2
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 67
+        width: 213
+        height: 133
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a75722629dca9148a2712cf0cc180dd
+      internalID: 6740782373247851756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinhaAcesa3
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 67
+        width: 221
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7761c53c08edb5e45b233770543e7689
+      internalID: 3475562662810446395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinhaAcesa4
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 60
+        width: 259
+        height: 250
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddfd832b4419b9a4b9fefa2de673c01f
+      internalID: -6788954420139208824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LinhaAcesa5
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 82
+        width: 232
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901e2188761cb134ebc0c46a57deb750
+      internalID: 7526432703572368279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 31702e26783abc7428214a596d4738a0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff94f93d5bf237243a6592d456ca85bd, type: 3}
+  m_Name: 1.1
+  m_EditorClassIdentifier: 
+  Falas:
+  - Text: "Que bom que voc\xEA est\xE1 aqui!"
+    Pose: {fileID: -8021783482508467223, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Face: {fileID: 3808000560791464224, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Prefab: {fileID: 0}
+  - Text: "Vamos primeiro come\xE7ar com o b\xE1sico."
+    Pose: {fileID: -1838760920508527145, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Face: {fileID: -7473241667589436805, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Prefab: {fileID: 0}
+  - Text: "Na <b><size=80>parte superior </size></b>da simula\xE7\xE3o ir\xE3o ter
+      esses <b><size=80>2 \xEDcones.</size></b>"
+    Pose: {fileID: -7112623826987071965, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Face: {fileID: 114378874218036506, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Prefab: {fileID: 0}
+  - Text: "<b><size=80>A bateria</size></b> ir\xE1 indicar quanto <b><size=80>tempo</size></b>
+      voc\xEA tem para completar a tarefa."
+    Pose: {fileID: -8021783482508467223, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Face: {fileID: -7473241667589436805, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Prefab: {fileID: 731347312940680008, guid: 5c6f934ae86956d4ca45b3249dfc8c08, type: 3}
+  - Text: "Cuidado para n\xE3o chegar em 0%, hein!"
+    Pose: {fileID: -1838760920508527145, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Face: {fileID: 114378874218036506, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Prefab: {fileID: 731347312940680008, guid: 5c6f934ae86956d4ca45b3249dfc8c08, type: 3}
+  - Text: "J\xE1, esse bot\xE3o \xE9 o <b><size=80>lembrete.</size></b>"
+    Pose: {fileID: -8021783482508467223, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Face: {fileID: -7473241667589436805, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Prefab: {fileID: 2976477314895482664, guid: 9fce9d71013988f40b1d07e778757f4b,
+      type: 3}
+  - Text: "Ele sempre me trar\xE1 de volta para <b><size=80>relembrar seu objetivo</size></b>."
+    Pose: {fileID: -7112623826987071965, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Face: {fileID: 114378874218036506, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Prefab: {fileID: 2976477314895482664, guid: 9fce9d71013988f40b1d07e778757f4b,
+      type: 3}
+  - Text: Agora, como primeiro objetivo,<b><size=80>deslize o dedo de baixo para cima</size></b>,
+      para sair da tela de bloqueio.
+    Pose: {fileID: -1838760920508527145, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Face: {fileID: -7473241667589436805, guid: 177470ddaba000041a313b1a89b07d2a, type: 3}
+    Prefab: {fileID: 0}
